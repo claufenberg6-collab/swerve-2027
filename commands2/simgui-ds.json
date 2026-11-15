@@ -57,5 +57,6 @@
     "buttonCount": 0,
     "povCount": 0
   }],
-  "robotJoysticks": [{"guid": "0300fa675e0400008e02000005017801"}]
+  "robotJoysticks": [{"guid": "0300fa675e0400008e02000005017801"}],
+  "useEstopHotkey": true
 }
