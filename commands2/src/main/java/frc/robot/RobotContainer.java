@@ -50,7 +50,7 @@ public class RobotContainer
 
   // Toggled with the A button to switch the drive stream between angular velocity control (right stick X spins the
   // robot) and heading control (the right stick points the way the robot should face).
-  private       boolean headingControlEnabled = false;
+  private       boolean headingControlEnabled = true;
 
   // Field relative drive stream. Xbox sticks read negative when pushed forward/left, so every axis is negated:
   //  - translation: left stick forward drives away from the driver station, left drives left.
